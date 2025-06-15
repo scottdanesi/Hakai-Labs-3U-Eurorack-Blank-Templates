@@ -3,6 +3,9 @@ This project created by Scott Danesi is available for all to use.  This is an MI
 
 We will be adding more formats as necessary over time.  All file formats are available to modify.  Please reach out to us via our website (https://www.hakailabs.com) if you have any questions.
 
+Blanks Sample Image:
+![alt text](https://github.com/scottdanesi/Hakai-Labs-3U-Eurorack-Blank-Templates/blob/main/Hakai%20Labs%20Blanks%20Sample%20Image.png "Hakai Labs 3U Eurorack Blank Templates")
+
 These files are provided with no warranty, guarantee or anything.
 
 Thank you!
